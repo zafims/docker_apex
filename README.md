@@ -1,6 +1,6 @@
 # docker_apex
 Install Oracle Apex in Docker
-
+YouTube Link: https://www.youtube.com/watch?v=WlkCN516OUI&t=351s
 # Launch APEX with Docker
 
 
